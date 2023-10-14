@@ -228,6 +228,18 @@ Self-Made Wealth Analysis: We are keen on determining the percentage of billiona
 <br>
 <br>
 
+5. **Other activities**
+
+- Created additional DAX measures using:
+  - IF()
+  - ISBLANK()
+  - COUNT()
+  - SUM()
+  - DIVIDE()
+
+<br>
+<br>
+
 # Conclusions and Key Insights
 
 - The dataset comprises information on 2,637 billionaires.
