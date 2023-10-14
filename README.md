@@ -2,7 +2,7 @@
 
 <br>
 
-This is a Data Analyst portfolio project demonstrating the process of conducting exploratory data analysis on a given dataset. It is set within a fictional scenario, representing a request from a Business Analysis Manager. 
+This is a project demonstrating the process of conducting exploratory data analysis on a given dataset. It is set within a fictional scenario, representing a request from a Business Analysis Manager. 
 
 ### Data Source
 
