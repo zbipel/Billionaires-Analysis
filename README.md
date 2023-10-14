@@ -234,7 +234,7 @@ Self-Made Wealth Analysis: We are keen on determining the percentage of billiona
 
 - The average net worth of a billionaire stands at $4.626 billion.
 
-- The age range of billionaires is extensive, with the oldest being 101 years old and the youngest just 18.
+- The age range of billionaires is extensive, with the oldest being 101 years old and the youngest just 18. The average age among them is 65.
 
 - There are 18 industries associated with billionaire business interests, with dominant sectors including Finance & Investments, Manufacturing, Technology, Fashion & Retail, Food & Beverage, Healthcare, and Real Estate.
 
