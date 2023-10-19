@@ -98,8 +98,9 @@ Self-Made Wealth Analysis: We are keen on determining the percentage of billiona
 
 
 - Created data model
-	- created two pivot tables and added them to the data model
+	- added two tables to the data model
 	- established relationship between tables in datamodel
+	- created pivot table
 
 <br>
 
