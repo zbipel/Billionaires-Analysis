@@ -173,6 +173,17 @@ Self-Made Wealth Analysis: We are keen on determining the percentage of billiona
 ![Excel_6](Resources/Screenshots/Excel_Analysis_6.png)
 ![Excel_6g](Resources/Screenshots/Excel_Analysis_6g.png)
 
+
+<br>
+<br>
+
+- Billionaires per 1 000 000 residents by country:
+
+![SQL_6](Resources/Screenshots/SQL_Analysis_13.png)
+![Excel_6](Resources/Screenshots/Excel_Analysis_13.png)
+![Excel_6g](Resources/Screenshots/Excel_Analysis_13g.png)
+
+
 <br>
 <br>
 
@@ -203,11 +214,11 @@ Self-Made Wealth Analysis: We are keen on determining the percentage of billiona
 <br>
 <br>
 
-- Countries' tax rates vs. number of billionaires:
+- Countries' tax rates vs. number of billionaires (excluding tax havens):
 
 ![SQL_10](Resources/Screenshots/SQL_Analysis_10.png)
-![Excel_10](Resources/Screenshots/Excel_Analysis_10v.png)
-![Excel_10g](Resources/Screenshots/Excel_Analysis_10g.png)
+![Excel_10](Resources/Screenshots/Excel_Analysis_10v1.png)
+![Excel_10g](Resources/Screenshots/Excel_Analysis_10g1.png)
 
 <br>
 <br>
@@ -257,7 +268,7 @@ Self-Made Wealth Analysis: We are keen on determining the percentage of billiona
 
 - Of the total billionaires, 2,301 are male, while 336 are female. Although the average net worth is similar for both genders ($4.633 billion for males and $4.580 billion for females), there is significant gender disparity.
 
-- The analysis shows no evident correlation between the number of billionaires in a country and its tax rate.
+- The analysis of provided data shows no evident correlation between the number of billionaires in a country and its tax rate.
 
 - The majority of billionaires fall within the age range of 50-70 years old, accounting for 74% of all billionaires.
 
