@@ -44,7 +44,7 @@ Self-Made Wealth Analysis: We are keen on determining the percentage of billiona
 |----|-------------------|----------------------------------------------------------------|-----------------------------------------------|--------------------|
 | 1  | Marketing Analyst | To have a better understanding of the billionaires' landscape. | I can profile them as potential clients.      | The analysis should include statistics about billionaires, allowing the identification of their demographic characteristics, such as age ranges, gender distribution, and regions of residence. Additionally, it should provide insights into their primary industries of interest. |
 | 2  | Business Analyst   | To know what are the sources of income of the wealthiest people. | I can make informed decisions about their businesses. | The analysis should provide data on the primary sources of wealth for billionaires, including the top industries and sectors contributing to their wealth. |
-| 3  | Business Analysis Manager | To analyze billionaires' demographics and understand their financial situation. | I manage a research project about our potential clients. | The analysis should include information on the number of billionaires considering their age groups, gender distribution, and geographic regions. Additionally, it should provide an overview of the most prevalent industries among billionaires. |
+| 3  | Business Analysis Manager | To analyze billionaires' demographics and understand their financial situation. | I can manage a research project about our potential clients. | The analysis should include information on the number of billionaires considering their age groups, gender distribution, and geographic regions. Additionally, it should provide an overview of the most prevalent industries among billionaires. |
 
 
 <br>
@@ -73,7 +73,7 @@ Self-Made Wealth Analysis: We are keen on determining the percentage of billiona
   - promoted headers
   - checked quality of data
   - removed unnecessary / unusable columns
-  - renamed column
+  - renamed columns
   - transformed data using "replace values", "split column"
   - changed data types
 
